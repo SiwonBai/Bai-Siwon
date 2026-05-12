@@ -3,7 +3,6 @@
 <br/>
 
 ## 👤 About me
----
 
 📚 International Trade & Applied Statistics `2019.03 – 2026.02`
 <br/>
@@ -12,7 +11,6 @@
 <br/>
 
 ## 🎓 Education
----
 
 💡 KITA Digital Master Program 5th `2025.01 – 2025.08`
 <br/>
@@ -21,7 +19,6 @@
 <br/>
 
 ## 🛠️ Tech Stacks
----
 
 **Backend**
 <br/>
