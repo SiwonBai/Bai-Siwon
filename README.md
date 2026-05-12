@@ -4,12 +4,12 @@
 
 ## 👤 About me
 
-- International Trade & Applied Statistics `2019.03 – 2026.02`
-- 🇰🇷 Based in Korea · Systems Engineer in Tokyo 🇯🇵 `2027 ~`
+- 🎓 International Trade & Applied Statistics `2019.03 – 2026.02`
+- Based in Korea 🇰🇷 -> Systems Engineer in Tokyo 🇯🇵 `2027 ~`
 
 <br/>
 
-## 🎓 Education
+## 📚 Education
 
 - KITA Digital Master Program 5th `2025.01 – 2025.08`
 - KITA SCIT Program 48th `2025.09 – 2026.04`
