@@ -1,4 +1,4 @@
-# Hello, I'm Siwon 👋
+# Hello, I'm Siwon 👋🏻
 
 <br/>
 
